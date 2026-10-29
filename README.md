@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Genealogy-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Brother's Keeper Free Installer** — Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Works without internet access, no account required. Full offline installation.
+**💻 Brother's Keeper Free Installer** — Brother's Keeper is a Windows genealogy software with a long history among family history researchers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Brother's Keeper
 
-Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Manage thousands of family members, enter relationships, vital statistics, and notes, and generate family tree reports and ancestor charts. Brother's Keeper has been a stalwart genealogy tool for decades with a simple interface focused on data entry and relationship tracking.
+Brother's Keeper is a Windows genealogy software with a long history among family history researchers. It provides person records, family trees, event tracking, GEDCOM import/export, and a wide variety of report formats for documenting genealogical research.
 
 ---
 
 ## ❌ Problem: Brother's Keeper is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Dated Interface** — Visual design reflects the software's long history
-- **Modern Features** — Lacks modern features like DNA integration or smart matching
-- **Learning Curve** — Genealogy database concepts require adjustment for new users
+- **Windows Only** — No macOS or Linux version
+- **Dated Interface** — UI significantly older than modern genealogy software
+- **Steep Learning Curve** — Complex interface requires investment to use effectively
+- **Competition** — Gramps (free) and MacFamilyTree offer more modern genealogy experiences
 
 ---
 
@@ -121,7 +121,7 @@ Brother's Keeper is a genealogy software for Windows for recording and organizin
 
 ---
 
-**Brother's Keeper Free Installer** — Brother's Keeper is a genealogy software for Windows for recording and organizing family history data. Install without internet connection today!
+**Brother's Keeper Free Installer** — Brother's Keeper is a Windows genealogy software with a long history among family history researchers. Install without internet connection today!
 
 <div align="center">
 
